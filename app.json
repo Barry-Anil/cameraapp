@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "79b6bb12-7b07-4316-aa42-3dcf67c8749a"
+      }
+    },
+    "owner": "anil_barry",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/79b6bb12-7b07-4316-aa42-3dcf67c8749a"
     }
   }
 }
